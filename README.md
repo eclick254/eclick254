@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eclick254
-- 👀 I’m interested in enterprise resource planning (ERP)systems
-- 🌱 I’m currently learning about DevOps
-- 💞️ I’m looking to collaborate on open-source software, specifically Odoo.
+- 👀 I’m interested in ERP solutions, DevOps & Data Engineering.
+- 🌱 I’m currently learning about Web Development on The Odin Project.
+- 💞️ I’m looking to collaborate with those on a similar path.
 - 📫 How to reach me - eclick254@icloud.com
 
 <!---
